@@ -1,0 +1,20 @@
+body {
+    background: rgb(22, 1, 13);
+    color: white;
+}
+strong{
+    color:aqua
+}
+
+h1{
+            font-weight: bold;
+}
+ p{
+    height: 22;
+
+ }
+span{
+            color: #fd22cd;
+            border: 1px solid #441bd8;
+            padding: 10px;
+}
